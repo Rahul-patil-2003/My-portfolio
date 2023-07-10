@@ -5,8 +5,8 @@ This is my My portfolio was my frontend project for this project I used navigati
 
 
 <html>
+  <h2>Languages Used</h2>
   <ol>
-    <li><b>Language used:</b></li>
     <li>HTML</li>
     <li>CSS</li>
     <li>Typed.js</li>
